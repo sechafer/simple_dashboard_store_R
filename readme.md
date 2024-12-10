@@ -7,7 +7,7 @@ This application leverages R and Shiny to create an interactive dashboard that p
 The purpose of this software is to provide sales teams with an efficient way to analyze sales performance metrics. It processes CSV files containing sales data and generates interactive charts and metrics for key performance indicators such as total revenue, products sold, and top-performing categories.
 
 
-[Software Demo Video](#)
+[Software Demo Video](https://youtu.be/MYxGkSNuylU)
 
 # Development Environment
 
